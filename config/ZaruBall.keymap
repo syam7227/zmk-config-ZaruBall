@@ -14,7 +14,7 @@
 #define LOWER    2
 #define RAISE    3
 #define ADJUST   4
-#define SCROLL   1
+#define SCROLL   2
 
 // スクロール量の設定
 
